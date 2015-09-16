@@ -1,0 +1,7 @@
+001-0772c11	TKD 40-0844a	buddhist/K-koreana/40-tif/0800-0899/40_0844_A.TIF
+001-0773b04	TKD 40-0844b	buddhist/K-koreana/40-tif/0800-0899/40_0844_B.TIF
+001-0773b37	TKD 40-0844c	buddhist/K-koreana/40-tif/0800-0899/40_0844_C.TIF
+001-0773c34	TKD 40-0845a	buddhist/K-koreana/40-tif/0800-0899/40_0845_A.TIF
+001-0773b00	T 001-0773b	buddhist/T-taisho/T14/07/T14-0773.png
+001-0773c00	T 001-0773c	buddhist/T-taisho/T14/07/T14-0773.png
+001-0774a00	T 001-0774a	buddhist/T-taisho/T14/07/T14-0774.png
