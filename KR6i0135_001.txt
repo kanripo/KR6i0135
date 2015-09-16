@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:45.786527
+#+DATE: 2015-08-30 20:10:46.226098
 #+TITLE: 佛說隨勇尊者經
 #+PROPERTY: CBETA_ID T14n0505
 #+PROPERTY: ID KR6i0135
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 505
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0135_T_001-0773a> 
 #+PROPERTY: JUAN 1
 ¶
-No.505¶
-
- 佛說隨勇尊者經¶
+No. 505¶
+佛說隨勇尊者經¶
 ¶
 西天譯經三藏朝奉大夫試¶
 光祿卿傳法大師賜紫沙門¶
