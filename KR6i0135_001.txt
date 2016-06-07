@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:45.786527
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:40
 #+TITLE: 佛說隨勇尊者經
 #+PROPERTY: CBETA_ID T14n0505
 #+PROPERTY: ID KR6i0135
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 505
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0135_T_001-0773a> 
 #+PROPERTY: JUAN 1
 ¶
-No.505¶
-
- 佛說隨勇尊者經¶
+No. 505¶
+佛說隨勇尊者經¶
 ¶
 西天譯經三藏朝奉大夫試¶
 光祿卿傳法大師賜紫沙門¶
@@ -79,9 +78,9 @@ No.505¶
 　智行梵行修正道，
 　悉觀世間如草木，¶
 　都無義利無所成，
-　畢竟一切無繫著。」
+　畢竟一切無繫著。」」
 #+END_VERSE
-」¶
+¶
 
 爾時，尊者舍利子為隨勇尊者安置事已，往¶
 詣佛所，到已頭面禮世尊足，具陳上事。
@@ -145,9 +144,9 @@ No.505¶
 　世間所有諸毒中，
 　而彼貪毒最為上，¶
 　唯佛能破能攝持，
-　由斯諸毒皆息滅。」
+　由斯諸毒皆息滅。」」
 #+END_VERSE
-」¶
+¶
 
 爾時，世尊說大明曰：¶
 
